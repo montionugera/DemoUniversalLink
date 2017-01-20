@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "JGZC6Q8Q3Y.com.shoppening.UniversalLinks",
+                "paths": [ "/iOS-Universal-Links/*"]
+            },
+            
+            {
+                "appID": "JGZC6Q8Q3Y.com.augimon.DemoUniLink",
+                "paths": [ "/universal-link*"]
+            }
+        ]
+    }
+}

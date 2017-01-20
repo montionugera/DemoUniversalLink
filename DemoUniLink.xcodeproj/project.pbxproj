@@ -16,6 +16,7 @@
 		CD60B8A31E31B90C008D3B96 /* DemoUniLinkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD60B8A21E31B90C008D3B96 /* DemoUniLinkTests.swift */; };
 		CD60B8AE1E31B90C008D3B96 /* DemoUniLinkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD60B8AD1E31B90C008D3B96 /* DemoUniLinkUITests.swift */; };
 		CD60B8BD1E31C70A008D3B96 /* ulv_script.sh in Resources */ = {isa = PBXBuildFile; fileRef = CD60B8BC1E31C70A008D3B96 /* ulv_script.sh */; };
+		CD60B8BF1E31EBF5008D3B96 /* Readme.md in Sources */ = {isa = PBXBuildFile; fileRef = CD60B8BE1E31EBF5008D3B96 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		CD60B8AF1E31B90C008D3B96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD60B8BB1E31C12B008D3B96 /* DemoUniLink.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DemoUniLink.entitlements; sourceTree = "<group>"; };
 		CD60B8BC1E31C70A008D3B96 /* ulv_script.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = ulv_script.sh; sourceTree = "<group>"; };
+		CD60B8BE1E31EBF5008D3B96 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		CD60B87F1E31B90B008D3B96 = {
 			isa = PBXGroup;
 			children = (
+				CD60B8BE1E31EBF5008D3B96 /* Readme.md */,
 				CD60B8BC1E31C70A008D3B96 /* ulv_script.sh */,
 				CD60B88A1E31B90B008D3B96 /* DemoUniLink */,
 				CD60B8A11E31B90C008D3B96 /* DemoUniLinkTests */,
@@ -276,6 +279,7 @@
 			files = (
 				CD60B8901E31B90B008D3B96 /* DetailViewController.swift in Sources */,
 				CD60B88E1E31B90B008D3B96 /* MasterViewController.swift in Sources */,
+				CD60B8BF1E31EBF5008D3B96 /* Readme.md in Sources */,
 				CD60B88C1E31B90B008D3B96 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
